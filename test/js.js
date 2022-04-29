@@ -25,7 +25,7 @@ gsap.to(".text p", {
     scrollTrigger: {
         trigger: ".text p",
         scrub: 1,
-        markers: true,
+        // markers: true,
         start: "top 75%",
         end: "bottom 25%",
 

@@ -67,14 +67,17 @@ svg {
 .interviewer {
     margin-left: 600px;
     background: linear-gradient(to right,
-            rgb(48, 120, 115),
+            /* rgb(48, 120, 115), */
+            rgb(88, 191, 193),
             rgb(37, 37, 37) 50%);
 }
 
 .alvina {
     margin-left: 50px;
     background: linear-gradient(to right,
-            rgb(226, 211, 249),
+            /* rgb(226, 211, 249), */
+            /* rgb(253, 245, 222), */
+            rgb(219, 188, 201),
             rgb(37, 37, 37) 50%);
 }
 
