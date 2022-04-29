@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Podkova';
+    src: url('../fonts/podkova/Podkova-Medium.woff2') format('woff2'),
+        url('../fonts/podkova/Podkova-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Podkova';
+    src: url('../fonts/podkova/Podkova-Bold.woff2') format('woff2'),
+        url('../fonts/podkova/Podkova-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Podkova';
+    src: url('../fonts/podkova/Podkova-Regular.woff2') format('woff2'),
+        url('../fonts/podkova/Podkova-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Podkova';
+    src: url('../fonts/podkova/Podkova-ExtraBold.woff2') format('woff2'),
+        url('../fonts/podkova/Podkova-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Podkova';
+    src: url('../fonts/podkova/Podkova-SemiBold.woff2') format('woff2'),
+        url('../fonts/podkova/Podkova-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
