@@ -137,3 +137,29 @@ De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen
 <!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
 
 <!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+
+
+# Test 1 notities
+
+# Test 2 notities 
+
+- zelf controle over snelheid want ze is ongeduldig kijkt ook videos op 2x snelheid
+- Tempo van praatsnelheid kijken
+- Tekst kleur emotie en controle
+- Goed wanneer je duidelijk ziet dat iemand boos is door rood groot lettertype
+- Omschrijf wat voor soort hahaha het is
+- Woord voor woord als hij boos is wat voor flow wat voor intonatie zit daar in?
+- Hoe ziet een voice over eruit 
+- Waar ben ik nu in de podcast een lijntje met hoe lang het nog duurt 
+- Soms kan een emoji afleidend zijn als de tekst al gedetailleerd is 
+- Verschil tussen welke kant van België het accent is 
+- Met woorden kan je wss meer dan met emojis vertellen
+- miss is een video van een straat te afleidend 
+- Miss leuk om uit de tekstballonnen te denken 
+- Emoticons kunnen kinderachtige sfeer geven  ook al gebruikt ze ze wel zelf veel 
+- Zelf fonts koppelen aan gevoelens lui ongeduldig niet eerst iets willen uitzoeken
+- Tekst is te breed max 10 woorden op een regel is het beste  max de helft van de breedte doen 
+- In het begin even laten zien wie het is
+- Overview is fijn 
+- Podcast is op de telefoon dus mobile first 
+- Fluisteren hoort ze niet dus geef dat in woord aan maar groot lopen kan je wel zien 

@@ -74,7 +74,7 @@ svg {
     margin-left: 600px;
     background: linear-gradient(to right,
             /* rgb(48, 120, 115), */
-            rgb(88, 191, 193) 50%,
+            rgb(225, 53, 76) 50%,
             rgb(37, 37, 37) 50%);
 }
 
@@ -83,12 +83,13 @@ svg {
     background: linear-gradient(to right,
             /* rgb(226, 211, 249), */
             /* rgb(253, 245, 222), */
-            rgb(219, 188, 201) 50%,
+            rgb(52, 165, 48) 50%,
             rgb(37, 37, 37) 50%);
 }
 
 span:nth-of-type(1),
 span:nth-of-type(3) {
+    color: rgb(225, 53, 76);
     /* color: #fff; */
     /* position: absolute; */
     /* transform: rotate(-90deg); */
@@ -99,6 +100,7 @@ span:nth-of-type(2) {
     /* color: #fff; */
     /* position: absolute; */
     /* transform: rotate(-90deg); */
+    color: rgb(52, 165, 48);
     margin-left: 50px;
 }
 
