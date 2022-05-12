@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function progressbar () {
     const progressbarinner = document.querySelector('.progressBarInside')
 
     window.addEventListener('scroll', function () {
@@ -9,13 +9,12 @@ document.addEventListener('DOMContentLoaded', function () {
         let sHeight = h.scrollHeight || document.body.scrollHeight
 
         let percentage = sTop / (sHeight - h.clientHeight) * 100
-        let roundedpercentage = Math.round(percentage)
 
         progressbarinner.style.width = percentage + '%'
-        progressbarinner.innerText = roundedpercentage + '%'
         // console.log(percent)
     })
 })
+
 
 
 
