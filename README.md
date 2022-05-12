@@ -2,7 +2,7 @@
 
 # Live demo eindproduct
 
-https://farrahton.github.io/human-centered-design-2122/eindproduct/
+https://farrahton.github.io/human-centered-design-2122/eindproduct
 
 # User scenario
 
@@ -10,7 +10,7 @@ Marie is een design docent aan de HvA die zich identificeert als Doof. Zij is di
 
 <strong>Hobby's/interesses</strong>
 
-- Geel
+- Geel favoriete kleur
 - Duizendeneen useless websites leuk
 - Kat
 - Dieren
@@ -19,27 +19,29 @@ Marie is een design docent aan de HvA die zich identificeert als Doof. Zij is di
 - Wijn drinken
 - Kite surfer
 - Sporten
-- memes
-- Hobby vs interesse mening
-- Kookboekenlezen voor het slapen gaan
-- netflix: happy!
+- Memes
+- Hobby vs interesse zijn twee verschillende dingen
+- Kookboeken lezen voor het slapen gaan
+- Netflix kijkt ze veel: happy! laatst gekeken
 - Favoriete show: Friends
 
 # Testverslagen
 
-## Test 1 notities
+## Test 1
 
-De eerste test werd bekend gemaakt op de eerste dag. Hier had ik maar een paar uur aan voorbereidtijd om iets neer te zetten. Ik had toen dan ook geen plan van aanpak. Het liefst had ik A/B willen test, maar er was geen tijd om twee prototypes in elkaar te zetten. Eenmaal tijdens de test bleek dat meerdere mensen uit de groep overeenkomende elementen hadden. Ik heb daarom geobserveerd aan aantekeningen op basis daarvan gemaakt.
+- met chatting soort wolkjes heel simpel begin https://farrahton.github.io/human-centered-design-2122/v1/wolkjesPlaatjes.html
+- onboarding met emojis http://127.0.0.1:3000/v1/onboarding/onboarding.html (het was de bedoeling dat ze dan zelf invulde welke emotie ze voelt bij de emoticon aangezien het voor interpretatie vatbaar is en generatiegebonden kan zijn.)
 
-<strong>Bevindingen</strong>
+De eerste test werd bekend gemaakt op de eerste dag. Hierdoor had ik maar een paar uur aan voorbereidtijd om iets neer te zetten. Ik had toen dan ook geen plan van aanpak. Het liefst had ik een A/B test willen doen, maar er was geen tijd om twee prototypes in elkaar te zetten. Eenmaal tijdens de test bleek dat meerdere mensen uit de groep overeenkomende elementen hadden. Ik heb daarom geobserveerd aan aantekeningen op basis daarvan gemaakt.
 
-- Verdriet, humor, sarcasme, amicaal gesprek -> allemaal uitwerken
-- Wie wat zegt is lastig Voice overs bijvoorbeeld
+<strong>Bevindingenlijst</strong>
+
+- Verdriet, humor, sarcasme, amicaal gesprek, schattig, boos, verdrietig-> allemaal uitwerken
+- Wie wat zegt is lastig, denk aan voice overs
 - Praatsnelheid willen zien van personages, toon, antonatie etc
-- Schattig, boos, verdrietig
 - Film opdracht tip: closed caption -> omgevingsgeluiden er is een knal maar is deze groot of klein wat is het geluiden hebben nu in films dus die betekenis wilt ze weten dat doel: spanning op te wekken bijvoorbeeld
 - Combinatie van visueel en tekst een boom
-- High on the hog op Netflix goede close captions snicker in stem
+- High on the hog op Netflix goede close captions (snicker in stem)
 - Christine sun kim sound translation (goed voorbeeld) rewrites closed captions pop-up magazine
 - Andy mine hear my heart (music video)
 - Verschil in lettertypes dus diktes is wel goede manier
@@ -51,20 +53,18 @@ De eerste test werd bekend gemaakt op de eerste dag. Hier had ik maar een paar u
 - Sporten en koken, kat, droomt van moestuin, afspreken met vrienden
 - Kleuren die emoties betekenen moet ze vertrouwen op jouw interpretatie dat vind ze zelf lastig is voor iedereen anders die kleuren leren is te veel moeite
 - Emoji’s zitten ook nuances in
-- On boarding zoals in games spelend dan kan het opzicht wel het moet niet als veel werk aanvoelen als ze iets moet leren om te kunnen gebruiken is het een no goo
-- Tooltip op bijvoorbeeld oranje kader die voor een gevoel staat
+- On boarding zoals in games: het moet niet als veel werk aanvoelen als ze iets moet leren om te kunnen gebruiken is het een no go
 - Focus op tekst is bij haar al voldoende voor films
-- Trillende telefoon horrorfilm dat iemand achter je loopt hoe ver weg dat ook is
+- Trillende telefoon horrorfilm dat iemand achter je loopt hoe ver weg dat ook is, is een voorbeeld van een een paar jaar geleden
 - Podcast wie wat en waarom
 - Films hoe iemand het zegt
 - Omgevingsgeluiden ook graag weten
 - Bepaalde slang ipv standaard taal ook meenemen
 - Persoonlijke touch van mensen die mist
-- Snellere tekst
 
-## Test 2 notities
+## Test 2
 
-https://farrahton.github.io/human-centered-design-2122/test/
+- gsap https://farrahton.github.io/human-centered-design-2122/test2%20/test2.html
 
 <strong>Bevindingen</strong>
 
@@ -72,24 +72,24 @@ https://farrahton.github.io/human-centered-design-2122/test/
 - Tempo van praatsnelheid kijken
 - Tekst kleur emotie en controle
 - Goed wanneer je duidelijk ziet dat iemand boos is door rood groot lettertype
-- Omschrijf wat voor soort hahaha het is
+- Omschrijf wat voor soort lach het is
 - Woord voor woord als hij boos is wat voor flow wat voor intonatie zit daar in?
 - Hoe ziet een voice over eruit
 - Waar ben ik nu in de podcast een lijntje met hoe lang het nog duurt
 - Soms kan een emoji afleidend zijn als de tekst al gedetailleerd is
 - Verschil tussen welke kant van België het accent is
-- Met woorden kan je wss meer dan met emojis vertellen
-- miss is een video van een straat te afleidend
-- Miss leuk om uit de tekstballonnen te denken
-- Emoticons kunnen kinderachtige sfeer geven ook al gebruikt ze ze wel zelf veel
+- Met woorden kan je meer dan met emojis vertellen
+- Miss is een video op achtergrond te afleidend
+- Beter om uit tekstballonnen te denken
+- Emoticons kunnen kinderachtige sfeer geven ook al gebruikt zijzelf het wel veel in berichtjes
 - Zelf fonts koppelen aan gevoelens lui ongeduldig niet eerst iets willen uitzoeken
 - Tekst is te breed max 10 woorden op een regel is het beste max de helft van de breedte doen
 - In het begin even laten zien wie het is
 - Overview is fijn
 - Podcast is op de telefoon dus mobile first
-- Fluisteren hoort ze niet dus geef dat in woord aan maar groot lopen kan je wel zien
+- Fluisteren hoort ze niet dus geef dat aan
 
-## Test 3 notities
+## Test 3
 
 Dit is de laatste test. Ik heb een redelijk goed beeld van Marie's behoeftes in een podcast. Toch wil ik nog wat nonesense en persoonlijke identiteit van haar toevoegen aan mijn product. Daarom heb ik ervoor gekozen om weer te observeren, aangezien wij allemaal soortgelijke producten hebben. Tijdens mijn beurt ging ik tijd besteden aan wat persoonlijke vragen over haar interesses.
 
@@ -108,7 +108,7 @@ Dit is de laatste test. Ik heb een redelijk goed beeld van Marie's behoeftes in 
 - De comic is heel anders dan de rest waardoor het misschien niet meer een podcast lijkt.
 - Stijl sfeer achtergrond heel sfeerbepalend heel leuk en bepaald de toon voor wat er gaat komen.
 
-- J’s voorbeeld. ‘Twijfelend’, dus emotie boven de tekst, zodat je het eerst leest en met dat in gedachten het kan lezen.
+- Emotie boven de tekst, zodat je het eerst leest en met dat in gedachten het kan lezen.
 - Naam kan secundaire informatie zijn dus die beneden.
 - Best practice van Marie: pulp fiction as typography op YouTube, kinetic typography.
 - Door de highlight gaat ze het twee keer lezen, waar ze eigenlijk geen behoefte aan heeft.
@@ -121,13 +121,6 @@ Dit is de laatste test. Ik heb een redelijk goed beeld van Marie's behoeftes in 
 - Mooie interfaces voor mensen die Doof zijn
 - Generieke interfaces
 - NS kan je alleen chatten en bellen en bellen via een tolk
-
-# Tussentijdse versies
-
-- met chatting soort wolkjes https://farrahton.github.io/human-centered-design-2122/v1/wolkjesPlaatjes.html
-- onboarding met emojis
-- gsap
-- final
 
 # Leg de exclusive design principles uit en beschrijf hoe je die hebt toegepast
 
