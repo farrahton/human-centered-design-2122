@@ -124,7 +124,7 @@ Dit is de laatste test. Ik heb een redelijk goed beeld van Marie's behoeftes in 
 
 # Tussentijdse versies
 
-- met chatting soort wolkjes
+- met chatting soort wolkjes https://farrahton.github.io/human-centered-design-2122/v1/wolkjesPlaatjes.html
 - onboarding met emojis
 - gsap
 - final
@@ -171,6 +171,8 @@ Ik ben ervan overtuigt dat ik het vak heb gehaald op basis van de criteria en de
   De behoefte aan nuances en omschrijvingen van geluiden zijn ook terug te vinden in mijn podcast transcript.
 
   Ik begrijp dat Marie in controle wilt zijn en sneller zal lezen dan de meeste mensen. Juist om die reden heb ik ervoor gekozen om toch niet voor de gsap scrolltrigger animaties te kiezen. Op die manier kan ze zelf zo snel scrollen als ze wilt, zonder te moeten wachten op stukken tekst.
+
+  Bovendien wilt ze zien hoe ver ze is in de podcast. Daarom heb ik een progress bar gemaakt.
 
   In de stukken tekst had ik in het begin de geluiden/intonatie in capslock geschreven. Hierover maakte ze al gelijk de opmerking dat ze dat liever niet heeft, omdat het dan als schreeuwen overkomt en het bovendien niet lekker leest.
 
