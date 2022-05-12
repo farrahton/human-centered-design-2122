@@ -1,147 +1,72 @@
-# Human Centered Design @cmda-minor-web 2021 - 2022
+# Human Centered Design
 
-Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
+# Live demo eindproduct
 
-> What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
+https://farrahton.github.io/human-centered-design-2122/eindproduct/
 
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. 
-Een Frontend Designer en Developer heeft verstand van interactie, vormgeving én techniek. 
-Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-        
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. 
-Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? 
-Wat voor principes heb je gebruikt en getest? En is het leuk?
+# User scenario
 
-## Opdracht
+Marie is een design docent aan de HvA die zich identificeert als Doof. Zij is dit al haar hele leven. Om haar heen ziet ze veel over podcasts en hoe mensen dit leuk ervaren. Aangezien ze wel weet dat de meeste podcasts saaie kale transcripts hebben met te weinig context, heeft ze niet per se een specifieke podcast genre in gedachten. Toch is ze benieuwd naar een podcast beleving, ook al weet ze dat het anders zal zijn dan horende mensen. Horende mensen kunnen het namelijk als achtergrondgeluid gebruiken, terwijl zij er echt met volle aandacht voor moet gaan zitten met haar telefoon.
 
-### Ontwerpen met en voor echte mensen
+<strong>Hobby's/interesses</strong>
 
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
-Een echt mens. 
-Je moet je ontwerp 3 keer testen. 
-Door te testen en te itereren ga je je ontwerp verbeteren. 
-Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. 
-Een _exclusive design_ ... 
-Wie is deze persoon dan voor wie je dit gaat maken? 
-Wat vindt deze persoon leuk of juist niet? 
-En hoe bedient deze persoon een computer?
+- Geel
+- Duizendeneen useless websites leuk
+- Kat
+- Dieren
+- Boeken lezen
+- Koken
+- Wijn drinken
+- Kite surfer
+- Sporten
+- memes
+- Hobby vs interesse mening
+- Kookboekenlezen voor het slapen gaan
+- netflix: happy!
+- Favoriete show: Friends
 
-- [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
+# Testverslagen
 
-### Leerdoelen
+## Test 1 notities
 
-- _Leren hoe je (design) principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
+De eerste test werd bekend gemaakt op de eerste dag. Hier had ik maar een paar uur aan voorbereidtijd om iets neer te zetten. Ik had toen dan ook geen plan van aanpak. Het liefst had ik A/B willen test, maar er was geen tijd om twee prototypes in elkaar te zetten. Eenmaal tijdens de test bleek dat meerdere mensen uit de groep overeenkomende elementen hadden. Ik heb daarom geobserveerd aan aantekeningen op basis daarvan gemaakt.
 
-[Rubric](#rubric)
+<strong>Bevindingen</strong>
 
-## Planning & programma
+- Verdriet, humor, sarcasme, amicaal gesprek -> allemaal uitwerken
+- Wie wat zegt is lastig Voice overs bijvoorbeeld
+- Praatsnelheid willen zien van personages, toon, antonatie etc
+- Schattig, boos, verdrietig
+- Film opdracht tip: closed caption -> omgevingsgeluiden er is een knal maar is deze groot of klein wat is het geluiden hebben nu in films dus die betekenis wilt ze weten dat doel: spanning op te wekken bijvoorbeeld
+- Combinatie van visueel en tekst een boom
+- High on the hog op Netflix goede close captions snicker in stem
+- Christine sun kim sound translation (goed voorbeeld) rewrites closed captions pop-up magazine
+- Andy mine hear my heart (music video)
+- Verschil in lettertypes dus diktes is wel goede manier
+- Lange pauze’s in zinnen liever wel vanwege bewuste stiltes bijvoorbeeld
+- Woorden apart in beeld of met tekst clouds
+- Vraag naar Geronimo stilton stijl liever alle soorten of door 1 manier
+- Niet te veel in beeld is afleidend
+- Toonhoogte over het algemeen rustig dus niet per se nodig
+- Sporten en koken, kat, droomt van moestuin, afspreken met vrienden
+- Kleuren die emoties betekenen moet ze vertrouwen op jouw interpretatie dat vind ze zelf lastig is voor iedereen anders die kleuren leren is te veel moeite
+- Emoji’s zitten ook nuances in
+- On boarding zoals in games spelend dan kan het opzicht wel het moet niet als veel werk aanvoelen als ze iets moet leren om te kunnen gebruiken is het een no goo
+- Tooltip op bijvoorbeeld oranje kader die voor een gevoel staat
+- Focus op tekst is bij haar al voldoende voor films
+- Trillende telefoon horrorfilm dat iemand achter je loopt hoe ver weg dat ook is
+- Podcast wie wat en waarom
+- Films hoe iemand het zegt
+- Omgevingsgeluiden ook graag weten
+- Bepaalde slang ipv standaard taal ook meenemen
+- Persoonlijke touch van mensen die mist
+- Snellere tekst
 
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Kickoff, College exclusive design + Testen | College + Testen | Feedbackgesprekken |
-| [Week 2](#week-2---prototypen-en-testen)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
-| ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3---prototypen-testen-en-reflecteren)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
+## Test 2 notities
 
+https://farrahton.github.io/human-centered-design-2122/test/
 
-## Week 1 - Kickoff en aannames testen 
-
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
-
-### Woensdag 20 april
-
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
-
-Daarna prototypen en testen.
-
-### Donderdag 21 april
-
-Donderdag begint de les met een college over testen. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
-
-Daarna prototypen en testen.
-
-### Vrijdag 22 april
-
-Feedbackgesprekken in groepen.
-
-
-## Week 2 - Prototypen en testen 
-
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Woensdag is het koningsdag, dan is er geen les.
-
-### Donderdag 28 april
-
-Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) en [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) lezen.
-
-'s Middags ga je voor de tweede keer prototypen en testen.
-
-### Vrijdag 29 april
-
-Feedbackgesprekken in groepen.
-
-
-## Week 3 - Prototypen, testen en reflecteren
-
-In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
-
-### Woensdag 11 mei
-
-Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
-
-Daarna prototypen en testen.
-
-### Donderdag 12 mei
-
-Donderdag gaan we bevindingen van de tests bespreken. 
-
-Daarna prototypen en testen.
-
-### Vrijdag 13 mei
-
-Op vrijdag zijn de beoordelingsgesprekken. Je hebt dan een gesprek waarin we je vorderingen en bevindingen bespreekt. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
-
-
-
-## Rubric
-
-De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen voor het criterium (middenkolom) om het vak te halen. 
-
-| Ontoereikend  | Criteria  |  Verbetering |
-|---|---|---|
-|  | Readme - In de beschrijving van het project staat de opdracht uitgelegd, is het probleem duidelijk beschreven en hoe het probleem is opgelost. | | 
-|  | Design Principles - Student laat zien hoe de Exclusive Design Principles zijn toegepast in het ontwerp. De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. Aan de hand van de principes wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp. | | 
-|  | User Needs - Er is een user scenario geschreven dat aansluit bij de identiteit van de test persoon. Er is een duidelijk en volledig user scenario geschreven dat antwoord geeft op de 4 w-vragen: Who? What? How? en Why? | | 
-|  | Testen - Er is minimaal drie keer getest. Er is een verslaglegging van de tests gedaan waarin de test-opzet wordt behandeld en er is een duidelijke conclusie beschreven met do's en dont's over hoe je goed kan testen. | | 
-|  | Testresultaten - Aan de hand van de tests wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp of hoe dit een volgende keer beter of anders kan. | | 
-
-
-
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
-
-
-# Test 1 notities
-
-# Test 2 notities 
+<strong>Bevindingen</strong>
 
 - zelf controle over snelheid want ze is ongeduldig kijkt ook videos op 2x snelheid
 - Tempo van praatsnelheid kijken
@@ -149,17 +74,106 @@ De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen
 - Goed wanneer je duidelijk ziet dat iemand boos is door rood groot lettertype
 - Omschrijf wat voor soort hahaha het is
 - Woord voor woord als hij boos is wat voor flow wat voor intonatie zit daar in?
-- Hoe ziet een voice over eruit 
-- Waar ben ik nu in de podcast een lijntje met hoe lang het nog duurt 
-- Soms kan een emoji afleidend zijn als de tekst al gedetailleerd is 
-- Verschil tussen welke kant van België het accent is 
+- Hoe ziet een voice over eruit
+- Waar ben ik nu in de podcast een lijntje met hoe lang het nog duurt
+- Soms kan een emoji afleidend zijn als de tekst al gedetailleerd is
+- Verschil tussen welke kant van België het accent is
 - Met woorden kan je wss meer dan met emojis vertellen
-- miss is een video van een straat te afleidend 
-- Miss leuk om uit de tekstballonnen te denken 
-- Emoticons kunnen kinderachtige sfeer geven  ook al gebruikt ze ze wel zelf veel 
+- miss is een video van een straat te afleidend
+- Miss leuk om uit de tekstballonnen te denken
+- Emoticons kunnen kinderachtige sfeer geven ook al gebruikt ze ze wel zelf veel
 - Zelf fonts koppelen aan gevoelens lui ongeduldig niet eerst iets willen uitzoeken
-- Tekst is te breed max 10 woorden op een regel is het beste  max de helft van de breedte doen 
+- Tekst is te breed max 10 woorden op een regel is het beste max de helft van de breedte doen
 - In het begin even laten zien wie het is
-- Overview is fijn 
-- Podcast is op de telefoon dus mobile first 
-- Fluisteren hoort ze niet dus geef dat in woord aan maar groot lopen kan je wel zien 
+- Overview is fijn
+- Podcast is op de telefoon dus mobile first
+- Fluisteren hoort ze niet dus geef dat in woord aan maar groot lopen kan je wel zien
+
+## Test 3 notities
+
+Dit is de laatste test. Ik heb een redelijk goed beeld van Marie's behoeftes in een podcast. Toch wil ik nog wat nonesense en persoonlijke identiteit van haar toevoegen aan mijn product. Daarom heb ik ervoor gekozen om weer te observeren, aangezien wij allemaal soortgelijke producten hebben. Tijdens mijn beurt ging ik tijd besteden aan wat persoonlijke vragen over haar interesses.
+
+<strong>Bevindingen</strong>
+
+- Wanneer het woord voor woord is concentreert ze te veel op de woorden dan op de rest van het scherm. Terwijl het veel beter gaat wanneer het regels zijn. Vloeiender in beeld.
+- Meer nadruk, meer overdreven.
+- Varieer in tekstgrootte maar het moet nog wel prettig leesbaar blijven.
+- Vergeet de progress bar niet en geef deze goed vorm, zodat ie niet op een scrollbar lijkt. Ga voor horizontaal ipv. verticaal. Laat het vollopen niet meeschuiven.
+- Opbouw naar heftige emotie, zoals bij Mohammet. Vaak gaan mensen niet van blij naar opeens super boos. Daar zitten emoties tussen. Deze emoties en nuances wilt ze dan zien.
+- Absoluut geen emoticons -> text.
+
+- Een passend achtergrond helpt echt -> het bepaald de sfeer.
+- De comic geeft meer een visual storytelling sfeer.
+- Comic en verschil met podcast. Nuance op bepaalde woorden is echt belangrijk.
+- De comic is heel anders dan de rest waardoor het misschien niet meer een podcast lijkt.
+- Stijl sfeer achtergrond heel sfeerbepalend heel leuk en bepaald de toon voor wat er gaat komen.
+
+- J’s voorbeeld. ‘Twijfelend’, dus emotie boven de tekst, zodat je het eerst leest en met dat in gedachten het kan lezen.
+- Naam kan secundaire informatie zijn dus die beneden.
+- Best practice van Marie: pulp fiction as typography op YouTube, kinetic typography.
+- Door de highlight gaat ze het twee keer lezen, waar ze eigenlijk geen behoefte aan heeft.
+- De naam en emotie vielen meer op bij K. Dan de inhoud.
+- Het woord fantastisch groter in de zin is leuk.
+- Emoties meer koppelen aan de zin niet aan de naam.
+
+- Bold font oca is moeilijk daarin te lezen.
+
+- Mooie interfaces voor mensen die Doof zijn
+- Generieke interfaces
+- NS kan je alleen chatten en bellen en bellen via een tolk
+
+# Tussentijdse versies
+
+- met chatting soort wolkjes
+- onboarding met emojis
+- gsap
+- final
+
+# Leg de exclusive design principles uit en beschrijf hoe je die hebt toegepast
+
+1.  Study Situation - Het leren bergrijpen van de context waarin mensen met beperkingen leven.
+
+    - mobile first
+    - mist toon, emotie, geluiden
+    - gebruikt dark mode
+    - wilt in controle zijn
+
+2.  Ignore Conventions - Conventions zijn dingen die mensen al (her)kennen, maar werken de huidige conventions op het web voor mensen met beperkingen.
+
+    - niet voor standaard transcript
+    - niet voor standaard omschrijving van toon en/of emotie, zoals in boeken
+    - niet voor standaard podcast layout
+
+3.  Prioritise Identity - Laat hen actief meewerken aan het design process.
+
+    - Favoriete kleur is geel
+    - I love you in gebarentaal
+    - Een font van haar eigen website
+
+4.  Add Nonsense - Voeg onzin toe om proberen toegankelijke design boven het functionele te tillen.
+
+    - Een kat, aangezien ze van katten houdt
+    - Ze kijkt vaak Netflix, dus een snelknop naar Netflix voor nog meer entertainment na de podcast
+
+# Conclusie/reflectie
+
+Ik ben ervan overtuigt dat ik het vak heb gehaald op basis van de criteria en de leerdoelen die ik zeker heb behaald. Ik ben bij alle tests geweest en heb deze op meerdere manieren ingevuld. Ongeacht de korte tijd en het feit dat ik toch nog een beginner ben heb ik toch een mooi eindproduct neergezet met code. Mijn hele ontwerp is echt gericht op Marie, want ook al had ik bepaalde dingen zelf anders gezien, heb ik toch naar haar wensen en behoeftes geluisterd. In de toekomst had ik liever wel meer technieken geleerd voor een nog vettere invulling of een meer visual storytelling idee. Alleen kon dat volgens Marie ook weer het podcast-aspect laten verdwijnen. Dus dat heeft ook meer met de opdracht te maken, waardoor dat minder het geval is geweest.
+
+- Leren hoe je (design) principles in een ontwerp kan toepassen.
+
+  Onder de kop 'Leg de exclusive design principles uit en beschrijf hoe je die hebt toegepast' is te zien dat ik de principles heb toegepast.
+
+- User needs begrijpen en gebruiken in je ontwerp.
+  Al de features zijn op basis van haar wensen en behoeften gemaakt.
+
+  Zo heb ik onder andere geen onboarding gemaakt, zoals ik in de eerste instantie wilde gaan doen. Ze wilt namelijk NIET iets hoeven leren om iets te kunnen gebruiken.
+
+  De behoefte aan nuances en omschrijvingen van geluiden zijn ook terug te vinden in mijn podcast transcript.
+
+  Ik begrijp dat Marie in controle wilt zijn en sneller zal lezen dan de meeste mensen. Juist om die reden heb ik ervoor gekozen om toch niet voor de gsap scrolltrigger animaties te kiezen. Op die manier kan ze zelf zo snel scrollen als ze wilt, zonder te moeten wachten op stukken tekst.
+
+  In de stukken tekst had ik in het begin de geluiden/intonatie in capslock geschreven. Hierover maakte ze al gelijk de opmerking dat ze dat liever niet heeft, omdat het dan als schreeuwen overkomt en het bovendien niet lekker leest.
+
+- Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp.
+
+  Er zijn verschillende manieren van testen en ook vooral verschillende aspecten waar je je op kan focussen tijdens een test. Zo heb je a/b testen, observeren (kijken naar relevante aspecten van anderen), best practices voor Marie doorlopen, alleen de content (transcript) laten lezen en kijken waar ze enthousiast op reageert, functionaliteit (kijken of ze eruit komt hoe iets werkt) en layout (de vormgeving in Marie haar ogen mooi en en een efficiente presentatie). Aangezien ik tijdens iedere sessie live notities meeschreef had ik een goed overzicht van do's en dont's die ik vervolgens heb toegepast in de verbetering/totstandkoming van mijn ontwerp.
