@@ -65,6 +65,7 @@ De eerste test werd bekend gemaakt op de eerste dag. Hierdoor had ik maar een pa
 ## Test 2
 
 - gsap https://farrahton.github.io/human-centered-design-2122/test2%20/test2.html
+  Voor deze test had ik wel een wat meer volwaardig prototype dat ongeveer liet zien waar ik naartoe wilde werken. Eerst liet ik haar het zelf gebruiken. Aangezien het kort was, liet ik haar wel al het voorbereide transcript lezen dat dus op die manier verder uitgewerkt zou worden. Marie moest wel om de omschrijvingen lachen, dus dat aspect was goedgekeurd. Alleen de emojis wilde ze liever weg hebben. Het huidige ontwerp was voor desktop, maar zij zou haar mobiel willen gebruiken voor podcasts.
 
 <strong>Bevindingen</strong>
 
