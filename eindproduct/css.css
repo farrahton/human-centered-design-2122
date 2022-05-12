@@ -15,6 +15,7 @@ body {
     left: 0;
     position: fixed;
     width: 100%;
+    z-index: 10000;
 }
 
 .progressBarInside {
@@ -22,9 +23,11 @@ body {
     border-radius: 20px;
     color: white;
     font-size: .6em;
+    height: 0.8em;
     padding: 0px;
     position: relative;
     text-align: center;
+    width: 0%;
 }
 
 header {
@@ -37,7 +40,6 @@ header {
     justify-content: center;
     margin: 0;
     padding: 0;
-    z-index: 1;
 }
 
 header svg {
@@ -54,8 +56,12 @@ header h1 {
 }
 
 section:nth-of-type(1) img {
+    border-radius: 40px 40px 40px 40px;
+    display: block;
     height: auto;
+    margin: auto;
     padding: 1em;
+    position: relative;
     width: 92vw;
 }
 
@@ -82,10 +88,21 @@ main {
     display: flex;
     font-size: .6em;
     justify-content: flex-start;
-    text-align: start;
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.icoonRechts {
+    align-content: center;
+    flex-direction: row-reverse;
+    text-align: right;
 }
 
 p.algemeen.info {
+    font-style: italic;
     justify-content: center;
 }
 
@@ -101,11 +118,16 @@ span {
 }
 
 .fix {
+    text-align: left;
     width: 8em;
 }
 
 span.geluid.fix:nth-of-type(1) {
     width: 9em;
+}
+
+.spanRechts {
+    margin-left: 1em;
 }
 
 .interviewer {
@@ -119,8 +141,6 @@ span.geluid.fix:nth-of-type(1) {
 blockquote {
     margin: 0;
     padding-bottom: 2em;
-    
-    ;
 }
 
 .alvina {
@@ -128,12 +148,70 @@ blockquote {
     text-align: right;
 }
 
-
-/* voor gifs als je het wel doet*/
-img {
-    display: block;
+.kittycat {
     height: 2em;
-    margin-left: auto;
-    margin-right: auto;
-    width: 2em;
+    padding-left: 38%;
+    position: absolute;
+    width: auto;
+}
+
+section.sectionTwo {
+    background-color: #303030;
+    border-radius: 20px;
+    color: #fff;
+    margin-bottom: 0.8em;
+    margin-left: 0.8em;
+    margin-right: 0.8em;
+    margin-top: 2em;
+    padding: 2em;
+}
+
+section.sectionTwo a {
+    justify-content: center;
+    text-decoration: none;
+}
+
+button {
+    align-items: center;
+    background-color: #E50914;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+    padding: 10px 21px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: white;
+    color: #E50914;
+}
+
+
+@media (min-width: 768px) {
+    section:nth-of-type(1) img {
+        width: 40em;
+    }
+    button {
+        padding: 13px 50px 13px;
+    }
+
+    body {
+        margin-left: 25em;
+        margin-right: 25em;
+    }
+
+    .progressBar {
+        display: block;
+        margin-left: 25em;
+        margin-right: 25em;
+        width: 44.5em;
+    }
+    .kittycat {
+        padding-left: 25%;
+    }
 }
