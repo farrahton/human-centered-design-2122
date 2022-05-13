@@ -151,7 +151,7 @@ Dit is de laatste test. Ik heb een redelijk goed beeld van Marie's behoeftes in 
 
 # Conclusie/reflectie
 
-Ik ben ervan overtuigt dat ik het vak heb gehaald op basis van de criteria en de leerdoelen die ik zeker heb behaald. Ik ben bij alle tests geweest en heb deze op meerdere manieren ingevuld. Ongeacht de korte tijd en het feit dat ik toch nog een beginner ben heb ik toch een mooi eindproduct neergezet met code. Mijn hele ontwerp is echt gericht op Marie, want ook al had ik bepaalde dingen zelf anders gezien, heb ik toch naar haar wensen en behoeftes geluisterd. In de toekomst had ik liever wel meer technieken geleerd voor een nog vettere invulling of een meer visual storytelling idee. Alleen kon dat volgens Marie ook weer het podcast-aspect laten verdwijnen. Dus dat heeft ook meer met de opdracht te maken, waardoor dat minder het geval is geweest.
+Ik vind dat ik het vak heb gehaald op basis van de criteria, want de leerdoelen die ik zeker heb ik zeker behaald. Ik ben bij alle tests geweest en heb deze op meerdere manieren ingevuld. Ongeacht de korte tijd en het feit dat ik toch nog een beginner ben heb ik toch een mooi eindproduct neergezet met code. Mijn hele ontwerp is echt gericht op Marie, want ook al had ik bepaalde dingen zelf anders gezien, heb ik toch naar haar wensen en behoeftes na de testen geluisterd. In de toekomst had ik liever wel meer technieken geleerd voor een nog vettere invulling of een meer visual storytelling idee. Het kinetic typography is iets dat ik zeker nog wil leren te doen met CSS. Alleen kon dat volgens Marie ook weer het podcast-aspect laten verdwijnen. Dus dat heeft ook meer met de opdracht te maken, waardoor dat minder het geval is geweest.
 
 - Leren hoe je (design) principles in een ontwerp kan toepassen.
 
@@ -162,9 +162,9 @@ Ik ben ervan overtuigt dat ik het vak heb gehaald op basis van de criteria en de
 
   Zo heb ik onder andere geen onboarding gemaakt, zoals ik in de eerste instantie wilde gaan doen. Ze wilt namelijk NIET iets hoeven leren om iets te kunnen gebruiken.
 
-  De behoefte aan nuances en omschrijvingen van geluiden zijn ook terug te vinden in mijn podcast transcript.
+  De behoefte aan nuances en omschrijvingen van geluiden zijn zeker terug te vinden in mijn podcast transcript.
 
-  Ik begrijp dat Marie in controle wilt zijn en sneller zal lezen dan de meeste mensen. Juist om die reden heb ik ervoor gekozen om toch niet voor de gsap scrolltrigger animaties te kiezen. Op die manier kan ze zelf zo snel scrollen als ze wilt, zonder te moeten wachten op stukken tekst.
+  Ik begrijp dat Marie in controle wilt zijn en sneller zal lezen dan de meeste mensen. Juist om die reden heb ik ervoor gekozen om zin per zin in beeld te laten komen in plaats van woorden te hightlighten. Ook heeft ze de optie om weer nar boven te scrollen en haar plaats niet te verliezen in de tekst.
 
   Bovendien wilt ze zien hoe ver ze is in de podcast. Daarom heb ik een progress bar gemaakt.
 
