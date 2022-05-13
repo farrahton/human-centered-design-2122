@@ -18,6 +18,40 @@ document.addEventListener('DOMContentLoaded', function progressbar () {
 
 
 
+let interviewer = document.querySelectorAll('blockquote.interviewer')
+let alvina = document.querySelectorAll('blockquote.alvina')
+let interviewerName = document.querySelectorAll('p.interviewer')
+let alvinaName = document.querySelectorAll('p.alvina')
+
+function animateInView(element) {
+var rect = element.getBoundingClientRect();
+  return (
+        rect.top < 300
+    )
+}
+document.addEventListener('scroll', function () {
+    interviewer.forEach(blockquote => {
+    if (animateInView(blockquote)) {
+            blockquote.classList.add('showRight')
+        }
+  })
+  interviewerName.forEach(p => {
+    if (animateInView(p)) {
+            p.classList.add('showRight')
+        }
+  })
+  
+  alvina.forEach(blockquote => {
+    if (animateInView(blockquote)) {
+            blockquote.classList.add('showLeft')
+        }
+  })
+  alvinaName.forEach(p => {
+    if (animateInView(p)) {
+            p.classList.add('showLeft')
+        }
+  })
+});
 
 
 

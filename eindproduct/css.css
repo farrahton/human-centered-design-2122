@@ -131,7 +131,7 @@ span.geluid.fix:nth-of-type(1) {
 }
 
 .interviewer {
-    color: #6DA7D9;
+    color:#161616;
 }
 
 .toon {
@@ -144,7 +144,7 @@ blockquote {
 }
 
 .alvina {
-    color: #F1D16D;
+    color:#161616;
     text-align: right;
 }
 
@@ -191,6 +191,13 @@ button:hover {
     color: #E50914;
 }
 
+.showLeft {
+    color: #F1D16D;
+}
+
+.showRight {
+    color: #6DA7D9;
+}
 
 @media (min-width: 768px) {
     section:nth-of-type(1) img {
