@@ -30,7 +30,7 @@ Marie is een design docent aan de HvA die zich identificeert als Doof. Zij is di
 ## Test 1
 
 - met chatting soort wolkjes heel simpel begin https://farrahton.github.io/human-centered-design-2122/v1/wolkjesPlaatjes.html
-- onboarding met emojis http://127.0.0.1:3000/v1/onboarding/onboarding.html (het was de bedoeling dat ze dan zelf invulde welke emotie ze voelt bij de emoticon aangezien het voor interpretatie vatbaar is en generatiegebonden kan zijn.)
+- onboarding met emojis https://farrahton.github.io/human-centered-design-2122/v1/onboarding/onboarding.html (het was de bedoeling dat ze dan zelf invulde welke emotie ze voelt bij de emoticon aangezien het voor interpretatie vatbaar is en generatiegebonden kan zijn.)
 
 De eerste test werd bekend gemaakt op de eerste dag. Hierdoor had ik maar een paar uur aan voorbereidtijd om iets neer te zetten. Ik had toen dan ook geen plan van aanpak. Het liefst had ik een A/B test willen doen, maar er was geen tijd om twee prototypes in elkaar te zetten. Eenmaal tijdens de test bleek dat meerdere mensen uit de groep overeenkomende elementen hadden. Ik heb daarom geobserveerd aan aantekeningen op basis daarvan gemaakt.
 
